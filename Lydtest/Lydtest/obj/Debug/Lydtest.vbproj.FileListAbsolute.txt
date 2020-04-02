@@ -9,3 +9,14 @@ C:\Users\gm\source\repos\Lydtest\Lydtest\obj\Debug\Lydtest.vbproj.GenerateResour
 C:\Users\gm\source\repos\Lydtest\Lydtest\obj\Debug\Lydtest.exe
 C:\Users\gm\source\repos\Lydtest\Lydtest\obj\Debug\Lydtest.xml
 C:\Users\gm\source\repos\Lydtest\Lydtest\obj\Debug\Lydtest.pdb
+C:\Users\Simon Thordal\Source\Repos\Eksamensprojekt-Bibbi-og-Walther\Programmet\Lydtest\Lydtest\bin\Debug\Lydtest.exe.config
+C:\Users\Simon Thordal\Source\Repos\Eksamensprojekt-Bibbi-og-Walther\Programmet\Lydtest\Lydtest\bin\Debug\Lydtest.exe
+C:\Users\Simon Thordal\Source\Repos\Eksamensprojekt-Bibbi-og-Walther\Programmet\Lydtest\Lydtest\bin\Debug\Lydtest.pdb
+C:\Users\Simon Thordal\Source\Repos\Eksamensprojekt-Bibbi-og-Walther\Programmet\Lydtest\Lydtest\bin\Debug\Lydtest.xml
+C:\Users\Simon Thordal\Source\Repos\Eksamensprojekt-Bibbi-og-Walther\Programmet\Lydtest\Lydtest\obj\Debug\Lydtest.vbprojAssemblyReference.cache
+C:\Users\Simon Thordal\Source\Repos\Eksamensprojekt-Bibbi-og-Walther\Programmet\Lydtest\Lydtest\obj\Debug\Lydtest.Form1.resources
+C:\Users\Simon Thordal\Source\Repos\Eksamensprojekt-Bibbi-og-Walther\Programmet\Lydtest\Lydtest\obj\Debug\Lydtest.Resources.resources
+C:\Users\Simon Thordal\Source\Repos\Eksamensprojekt-Bibbi-og-Walther\Programmet\Lydtest\Lydtest\obj\Debug\Lydtest.vbproj.GenerateResource.cache
+C:\Users\Simon Thordal\Source\Repos\Eksamensprojekt-Bibbi-og-Walther\Programmet\Lydtest\Lydtest\obj\Debug\Lydtest.exe
+C:\Users\Simon Thordal\Source\Repos\Eksamensprojekt-Bibbi-og-Walther\Programmet\Lydtest\Lydtest\obj\Debug\Lydtest.xml
+C:\Users\Simon Thordal\Source\Repos\Eksamensprojekt-Bibbi-og-Walther\Programmet\Lydtest\Lydtest\obj\Debug\Lydtest.pdb
