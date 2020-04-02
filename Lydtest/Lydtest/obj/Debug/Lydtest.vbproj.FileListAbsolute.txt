@@ -1,0 +1,11 @@
+C:\Users\gm\source\repos\Lydtest\Lydtest\bin\Debug\Lydtest.exe.config
+C:\Users\gm\source\repos\Lydtest\Lydtest\bin\Debug\Lydtest.exe
+C:\Users\gm\source\repos\Lydtest\Lydtest\bin\Debug\Lydtest.pdb
+C:\Users\gm\source\repos\Lydtest\Lydtest\bin\Debug\Lydtest.xml
+C:\Users\gm\source\repos\Lydtest\Lydtest\obj\Debug\Lydtest.vbprojAssemblyReference.cache
+C:\Users\gm\source\repos\Lydtest\Lydtest\obj\Debug\Lydtest.Form1.resources
+C:\Users\gm\source\repos\Lydtest\Lydtest\obj\Debug\Lydtest.Resources.resources
+C:\Users\gm\source\repos\Lydtest\Lydtest\obj\Debug\Lydtest.vbproj.GenerateResource.cache
+C:\Users\gm\source\repos\Lydtest\Lydtest\obj\Debug\Lydtest.exe
+C:\Users\gm\source\repos\Lydtest\Lydtest\obj\Debug\Lydtest.xml
+C:\Users\gm\source\repos\Lydtest\Lydtest\obj\Debug\Lydtest.pdb
